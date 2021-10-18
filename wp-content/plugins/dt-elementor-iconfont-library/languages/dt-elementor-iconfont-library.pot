@@ -1,0 +1,160 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Booking Manager Plugin\n"
+"POT-Creation-Date: 2020-06-16 11:36+0530\n"
+"PO-Revision-Date: 2017-01-06 19:39+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../dt-elementor-iconfont-library.php:115
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../dt-elementor-iconfont-library.php:116 ../dt-elementor-iconfont-library.php:136
+#: ../dt-elementor-iconfont-library.php:157
+msgid "DT Elementor Ico Icon Library"
+msgstr ""
+
+#: ../dt-elementor-iconfont-library.php:117 ../dt-elementor-iconfont-library.php:137
+msgid "Elementor"
+msgstr ""
+
+#: ../dt-elementor-iconfont-library.php:135 ../dt-elementor-iconfont-library.php:156
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../dt-elementor-iconfont-library.php:158
+msgid "PHP"
+msgstr ""
+
+#: ../icons/abstract/class-elementor-abstract-iconfont.php:83
+msgid "Ico Font - Abstract"
+msgstr ""
+
+#: ../icons/animal/class-elementor-animal-iconfont.php:152
+msgid "Ico Font - Animal"
+msgstr ""
+
+#: ../icons/brand/class-elementor-brand-iconfont.php:245
+msgid "Ico Font - Brand"
+msgstr ""
+
+#: ../icons/business/class-elementor-business-iconfont.php:65
+msgid "Ico Font - Business"
+msgstr ""
+
+#: ../icons/chart/class-elementor-chart-iconfont.php:55
+msgid "Ico Font - Chart"
+msgstr ""
+
+#: ../icons/construction/class-elementor-construction-iconfont.php:106
+msgid "Ico Font - Construction"
+msgstr ""
+
+#: ../icons/currency/class-elementor-currency-iconfont.php:142
+msgid "Ico Font - Currency"
+msgstr ""
+
+#: ../icons/device/class-elementor-device-iconfont.php:92
+msgid "Ico Font - Device"
+msgstr ""
+
+#: ../icons/directional/class-elementor-directional-iconfont.php:155
+msgid "Ico Font - Directional"
+msgstr ""
+
+#: ../icons/education/class-elementor-education-iconfont.php:82
+msgid "Ico Font - Education"
+msgstr ""
+
+#: ../icons/emoticon/class-elementor-emoticon-iconfont.php:62
+msgid "Ico Font - Emoticon"
+msgstr ""
+
+#: ../icons/file-type/class-elementor-file-type-iconfont.php:83
+msgid "Ico Font - File Type"
+msgstr ""
+
+#: ../icons/fitness/class-elementor-fitness-iconfont.php:52
+msgid "Ico Font - Fitness"
+msgstr ""
+
+#: ../icons/food/class-elementor-food-iconfont.php:140
+msgid "Ico Font - Food"
+msgstr ""
+
+#: ../icons/kids/class-elementor-kids-iconfont.php:61
+msgid "Ico Font - Kids"
+msgstr ""
+
+#: ../icons/law/class-elementor-law-iconfont.php:81
+msgid "Ico Font - Law"
+msgstr ""
+
+#: ../icons/mathmetical/class-elementor-mathmetical-iconfont.php:89
+msgid "Ico Font - Mathmetical"
+msgstr ""
+
+#: ../icons/medical/class-elementor-medical-iconfont.php:98
+msgid "Ico Font - Medical"
+msgstr ""
+
+#: ../icons/mobile-ui/class-elementor-mobile-ui-iconfont.php:133
+msgid "Ico Font - Mobile UI"
+msgstr ""
+
+#: ../icons/multimedia/class-elementor-multimedia-iconfont.php:77
+msgid "Ico Font - Multimedia"
+msgstr ""
+
+#: ../icons/payment/class-elementor-payment-iconfont.php:89
+msgid "Ico Font - Payment"
+msgstr ""
+
+#: ../icons/person/class-elementor-person-iconfont.php:80
+msgid "Ico Font - Person"
+msgstr ""
+
+#: ../icons/search/class-elementor-search-iconfont.php:53
+msgid "Ico Font - Search"
+msgstr ""
+
+#: ../icons/social/class-elementor-social-iconfont.php:155
+msgid "Ico Font - Social"
+msgstr ""
+
+#: ../icons/sport/class-elementor-sport-iconfont.php:124
+msgid "Ico Font - Sport"
+msgstr ""
+
+#: ../icons/text-editor/class-elementor-text-editor-iconfont.php:87
+msgid "Ico Font - Text Editor"
+msgstr ""
+
+#: ../icons/transport/class-elementor-transport-iconfont.php:95
+msgid "Ico Font - Transport"
+msgstr ""
+
+#: ../icons/travel/class-elementor-travel-iconfont.php:56
+msgid "Ico Font - Travel"
+msgstr ""
+
+#: ../icons/weather/class-elementor-weather-iconfont.php:123
+msgid "Ico Font - Weather"
+msgstr ""
+
+#: ../icons/web-app/class-elementor-web-app-iconfont.php:441
+msgid "Ico Font - Web App"
+msgstr ""
