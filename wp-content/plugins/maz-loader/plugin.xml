@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+    <name>MAZ Loader</name>
+    <slug>maz-loader</slug>
+    <version>1.3.4</version>
+    <type>Free</type>
+    <creationDate>October 2019</creationDate>
+    <updateDate>October 9, 2021</updateDate>
+    <author>Stergos Zamagias</author>
+    <authorEmail>support@feataholic.com</authorEmail>
+    <authorUrl>https://www.feataholic.com</authorUrl>
+    <copyright>Copyright © 2021 Feataholic All Rights Reserved</copyright>
+    <license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
+</plugin>
